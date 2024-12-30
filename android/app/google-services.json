@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691272678748",
+    "project_id": "catat-app-surat",
+    "storage_bucket": "catat-app-surat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691272678748:android:988010dff5013eb7aa1599",
+        "android_client_info": {
+          "package_name": "com.catat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMr95XXNIm3x-iJKanL952nYQQjovcdgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
